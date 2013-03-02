@@ -1,0 +1,161 @@
+/*Colors:
+Background Color: #fff
+Text Color, gray: #485655
+
+Typefaces:
+Text: Merriweather, Georgia, Times New Roman serif;
+Text2: Oswald, Trade Gothic, Helvetica, sans-serif;
+*/
+a {
+	text-decoration: none;
+	color: #485655;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #F90;
+}
+a:active {
+	text-decoration: none;
+	color: #F90;
+}
+
+li {
+	list-style:none;
+	padding-bottom:5px;
+}
+
+ul {
+	margin-left:-40px;
+}
+
+#footer a  {
+	text-decoration: none;
+	color: #eee;
+}
+
+#footer a:hover {
+	text-decoration: none;
+	color: #9d9fa2;
+}
+#footer a:active {
+	text-decoration: none;
+	color: #9d9fa2;
+}
+
+
+
+body {
+    background-color:#FFF;
+}
+
+#wrapper{
+	width: 900px;
+	margin: 0 auto;
+}
+
+#logo {
+    display: block;   
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:25px;
+}
+
+#border {
+    margin-bottom:5px
+}
+
+#center {
+    display: block;   
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#gallery {
+	padding-right:10px;
+	padding-top:4px;
+	text-align:right;
+}
+
+#gallery-selector {
+    display: block;   
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:5px;
+	text-align:center;
+}
+
+#gallery-icon {
+	margin-bottom:-3px;
+	text-align:center;
+}
+
+#gallery-back {
+	margin-right:0px;
+	margin-bottom:50px;
+}
+
+#gallery-forward {
+	margin-right:0px;
+}
+
+#left {
+    float:left;
+	margin-top:0px;   
+	margin-right: auto;
+	text-align:left;
+	font-family:Merriweather, Georgia, Times, serif;
+	font-weight:normal;
+	font-size:9.5pt;
+	line-height:12.5pt;
+	font-color:#485655;
+	width:250px;
+}
+
+#right {
+    float:right;  
+	margin-top:0px; 
+	margin-left: auto;
+	text-align:right;
+	font-family:Merriweather, Georgia, Times New Roman serif;
+	font-size:11pt;
+	width:650px;
+}
+
+#links {
+    z-index:99; 
+	text-align:center;
+	margin-top:-440px;}
+
+#titlesans {
+	font-family:Oswald, Trade Gothic, Helvetica, sans-serif;
+	font-size:36pt;
+	color:#485655;
+}
+
+
+#sans {
+	font-family:Oswald, Trade Gothic, Helvetica, sans-serif;
+	letter-spacing:1pt;
+	color:#485655;
+}
+
+#footer {
+	width:96%;
+	position:absolute;
+	font-family:Domine, Georgia, Times New Roman serif;
+	font-size:8pt;
+	margin:0;
+	padding-top:5px;
+	padding-left:50px;
+	color:#FFF;
+	z-index:90;
+	bottom: 0;
+	left: 0;
+	height: 20px;
+	background-color:#485655;
+}
+
+img.gallery.hidden {
+  display: none;
+}

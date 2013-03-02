@@ -7,55 +7,7 @@
 <span id="titlesans"><a href="index.html">ANNIE SAMUELSON</a></span><br><br>
 
 <div id="left">
-
-    <div id="Accordion1" class="Accordion" tabindex="0">
-
-<div class="AccordionPanel">
-        <span class="AccordionPanelTab"><span id="sans">INTERACTION</span></span>
-        <span class="AccordionPanelContent">
-                <!-- add #0 to every link -->
-    <li><a href="mockup.html#0">Digitized DNA, Thesis Wireframes</a>
-    <li><a href="experiment.html#0">Digitized DNA, Experimentation</a>
-    <li><a href="webadmin.html#0">UBS Wed Admin</a>
-    <li><a href="onesource.html#0">UBS One Source</a>
-    <li><a href="nereus.html#0">N.E.R.E.U.S., Second Life</a></li>
-        </span><br>
-</div>
-
-<div class="AccordionPanel">
-        <span class="AccordionPanelTab"><span id="sans">WEB</span></span>
-        <span class="AccordionPanelContent">
-                <!-- add #0 to every link -->
-     <li><a href="wedding.html#0">The (Future) Schorfheides</a>
-     <li><a href="horizon.html#0">The Horizon Group</a>
-    <li><a href="samuelson.html#0">Todd Samuelson MD</a></li>
-    <li><a href="shadowcliff.html#0">Shadowcliff Club</a></li>
-        <li><a href="cowtown.html#0">Cowtown Tri Delta</a></li>
-        </span><br>
-</div>
-
-<div class="AccordionPanel">
-        <span class="AccordionPanelTab"><span id="sans">ENVIRONMENTAL</span></span>
-        <span class="AccordionPanelContent">
-                <!-- add #0 to every link -->
-  <li><a href="states.html#0">States of Matter, Exhibit Design</a>
-    <li><a href="palads.html#0">Palads Hus, Wayfinding</a></li>
-    <li><a href="agriturismos.html#0">Agriturismos, System Design</a></li>
-        <li><a href="visualization.html#0">Sustainability, Data Visualization</a></li>
-        </span><br>
-</div>
-
-<div class="AccordionPanel">
-        <span class="AccordionPanelTab"><span id="sans">GRAPHIC</span></span>
-        <span class="AccordionPanelContent">
-                <!-- add #0 to every link -->
-    <li><a href="logos.html#0">Assorted Logos</a>
-    <li><a href="lettering.html#0">Assorted Lettering</a></li>
-    <li><a href="illustration.html#0">Assorted Illustration</a></li>
-        </span><br>
-</div>
-</div>
-
+  [% INCLUDE left.tt2 %]
 Howdy, I am a UX/UI designer and front-end developer. I run a web development and design firm, <br>S.S. Creative, with my better half and <i>soon-to-be</i> husband <a href="http://www.linkedin.com/in/pschorf">Paul Schorfheide</a>.<br><br>
 
 <span id="sans">

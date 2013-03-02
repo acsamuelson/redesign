@@ -1,0 +1,97 @@
+[% INCLUDE head.tt2 %]
+<div id="wrapper">
+<span id="titlesans">			
+<a href="index.html">ANNIE SAMUELSON</a></span><br><br>
+
+<div id="left">
+
+[% INCLUDE left.tt2 %]
+
+<span id="sans">A DIFFERENT PERSPECTIVE
+</span>
+<br>
+	School: <a href="http://www.utexas.edu">The University of Texas</a><br> 2010-2011
+    <br><br>
+Undergraduate Thesis <br/><u><a href="http://www.adobeawards.com/us/">Adobe Design Achievement Awards, Semi-Finalist.</a></u> A role playing card game that aids decision making. It removes the user from the equation, generates a character, and prompts the user to view their problem/question through &nbsp;<i>A Different Perspective.</i>
+    
+<!--<span id="sans">FRYDADDIES
+</span>
+<br>
+	Client: <a href="http://www.fwcds.org">FWCD Parent Organization</a><br> 2010
+    <br><br>
+A custom illustration used to brand the junior class' parent catering, featured at FWCD football games.</i></u>-->
+
+<!--<span id="sans">COOKIES & CASTLES
+</span>
+<br>
+	Client: <a href="http://www.cowtowntridelta.com">Fort Worth Tri Delta Alumni</a><br> 2011
+    <br><br>
+As a Tri Delta alumni heralding from Fort Worth, I was happy to help my sisters to brand our annual philanthropy event benefitting children's cancer. I illustrated this custom invitation, and we raised $80,000, our highest ever! -->
+
+<!--<span id="sans">A DIFFERENT PERSPECTIVE
+</span>
+<br>
+	School: <a href="http://www.utexas.edu">The University of Texas</a><br> 2011-2012
+    <br><br>
+Undergraduate Thesis <br/><u><a href="http://www.adobeawards.com/us/">Adobe Design Achievement Awards, Semi-Finalist. A role playing card game that aids decision making. It removes the user from the equation, generates a character, and prompts the user to view their problem/question through &nbsp;<i>A Different Perspective.</i></u>-->
+
+<!--<span id="sans">A DIFFERENT PERSPECTIVE
+</span>
+<br>
+	School: <a href="http://www.utexas.edu">The University of Texas</a><br> 2011-2012
+    <br><br>
+Undergraduate Thesis <br/><u><a href="http://www.adobeawards.com/us/">Adobe Design Achievement Awards, Semi-Finalist. A role playing card game that aids decision making. It removes the user from the equation, generates a character, and prompts the user to view their problem/question through &nbsp;<i>A Different Perspective.</i></u>-->
+
+<!--<span id="sans">A DIFFERENT PERSPECTIVE
+</span>
+<br>
+	School: <a href="http://www.utexas.edu">The University of Texas</a><br> 2011-2012
+    <br><br>
+Undergraduate Thesis <br/><u><a href="http://www.adobeawards.com/us/">Adobe Design Achievement Awards, Semi-Finalist. A role playing card game that aids decision making. It removes the user from the equation, generates a character, and prompts the user to view their problem/question through &nbsp;<i>A Different Perspective.</i></u>-->
+
+<!--<span id="sans">A DIFFERENT PERSPECTIVE
+</span>
+<br>
+	School: <a href="http://www.utexas.edu">The University of Texas</a><br> 2011-2012
+    <br><br>
+Undergraduate Thesis <br/><u><a href="http://www.adobeawards.com/us/">Adobe Design Achievement Awards, Semi-Finalist. A role playing card game that aids decision making. It removes the user from the equation, generates a character, and prompts the user to view their problem/question through &nbsp;<i>A Different Perspective.</i></u>-->
+
+<!--<span id="sans">A DIFFERENT PERSPECTIVE
+</span>
+<br>
+	School: <a href="http://www.utexas.edu">The University of Texas</a><br> 2011-2012
+    <br><br>
+Undergraduate Thesis <br/><u><a href="http://www.adobeawards.com/us/">Adobe Design Achievement Awards, Semi-Finalist. A role playing card game that aids decision making. It removes the user from the equation, generates a character, and prompts the user to view their problem/question through &nbsp;<i>A Different Perspective.</i></u>-->
+</div>
+
+
+
+<div id="right">
+<div id="gallery">
+      <span>
+      <img src="_img/portfolio/graphic/illustration/1.png" id="gallery-1" class="gallery shown"/>
+      <img src="_img/portfolio/graphic/illustration/2.png" id="gallery-2" class="gallery hidden"/>
+      <img src="_img/portfolio/graphic/illustration/3.png" id="gallery-3" class="gallery hidden"/>
+      <img src="_img/portfolio/graphic/illustration/4.png" id="gallery-4" class="gallery hidden"/>
+      <img src="_img/portfolio/graphic/illustration/5.png" id="gallery-5" class="gallery hidden"/>
+      <img src="_img/portfolio/graphic/illustration/6.png" id="gallery-6" class="gallery hidden"/>
+            <img src="_img/portfolio/graphic/illustration/7.png" id="gallery-7" class="gallery hidden"/>
+      </span>
+<!--      <img src="img/back.png" id="gallery-back"/>
+	  <img src="img/forward.png" id="gallery-forward"/>-->
+    </div>
+    
+    <div id="gallery-selector">
+      <span>
+      <img src="_img/static/slideshow_dot_hover.png" id="selector-1" class="selector active"/>
+      <img src="_img/static/slideshow_dot.png" id="selector-2" class="selector inactive"/>
+      <img src="_img/static/slideshow_dot.png" id="selector-3" class="selector inactive"/>
+      <img src="_img/static/slideshow_dot.png" id="selector-4" class="selector inactive"/>
+      <img src="_img/static/slideshow_dot.png" id="selector-5" class="selector inactive"/>
+      <img src="_img/static/slideshow_dot.png" id="selector-6" class="selector inactive"/>
+      <img src="_img/static/slideshow_dot.png" id="selector-7" class="selector inactive"/>
+      </span>
+    </div>
+</div>
+</div>
+[% INCLUDE footer.tt2 %]

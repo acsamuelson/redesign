@@ -1,8 +1,4 @@
-<!DOCTYPE HTML>
-<html lang="en">
 [% INCLUDE head.tt2 %]
-    <body>
-
 <div id="wrapper">
 <span id="titlesans"><a href="index.html">ANNIE SAMUELSON</a></span><br><br>
 
@@ -57,23 +53,4 @@ B.F.A. Design (The University of Texas)<br><br>
     </div>
 </div>
 </div>
-
-
-<div id="footer">© 2013 Annie Samuelson, UX/UI Designer </a> </u></div>
-
-<script src="slideshow.js"></script>
-<script type="text/javascript">
-<!--
-var Accordion1 = new Spry.Widget.Accordion("Accordion1",  { useFixedPanelHeights: false, defaultPanel: -1 });
-var idx = window.location.hash.substring(1);
-if (idx.length > 0) {
-  Accordion1.enableAnimation = false;
-  Accordion1.openPanel(parseInt(idx));
-  Accordion1.enableAnimation = true;
-}
-//-->
-</script>
-
-</body>
-
-</html>
+[% INCLUDE footer.tt2 %]

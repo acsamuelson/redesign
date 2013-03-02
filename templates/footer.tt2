@@ -1,0 +1,18 @@
+<div id="footer">© 2013 Annie Samuelson, UX/UI Designer </a> </u></div>
+
+<script src="slideshow.js"></script>
+<script type="text/javascript">
+<!--
+var Accordion1 = new Spry.Widget.Accordion("Accordion1",  { useFixedPanelHeights: false, defaultPanel: -1 });
+var idx = window.location.hash.substring(1);
+if (idx.length > 0) {
+  Accordion1.enableAnimation = false;
+  Accordion1.openPanel(parseInt(idx));
+  Accordion1.enableAnimation = true;
+}
+//-->
+</script>
+
+</body>
+
+</html>

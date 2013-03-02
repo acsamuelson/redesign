@@ -1,3 +1,5 @@
+<!DOCTYPE HTML>
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <title>Annie Samuelson, UX/UI Designer</title>
@@ -25,3 +27,4 @@ work that is fun, and doesn't take itself too seriously. I hail from Texas, now 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script src="site.js" type="text/javascript"></script>
 </head>
+<body>

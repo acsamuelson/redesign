@@ -1,0 +1,27 @@
+<head>
+<meta charset="UTF-8">
+<title>Annie Samuelson, UX/UI Designer</title>
+<meta name="keywords" content="Fort Worth, Arlington, Lake Worth, Texas, TX, New York City, NYC, NY, Brooklyn, Pratt, Manhattan, Design, Interactive Design, Graphic Design, Web Design, Web Development, Illustration, Female, "/>
+<meta name="description"content="ANNE SAMUELSON creative can take care of all your creative needs! I am an award winning designer. I specialize in graphic design, web development, & illustration. My approach to design is simple & accessible. I aim to create
+work that is fun, and doesn't take itself too seriously. I hail from Texas, now I am completing my Masters in Communications Design at the Pratt Institute in New York City. I accept freelance clients, local & not. I truly love what I do & hope you do too!"/>
+<meta name="Author" content="Anne Samuelson Creative"/>
+<meta name="Email" content="info@toddsamuelsonmd.com"/>
+<meta name="Website" content="www.toddsamuelsonmd.com"/>
+<link href="css/styles.css" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!--[if !IE 7]>
+  <style type="text/css">
+    #wrap {display:table;height:100%}
+  </style>
+<![endif]-->
+
+<!--Script Code-->
+<script src="SpryAssets/SpryAccordion.js" type="text/javascript"></script>
+<link href="SpryAssets/SpryAccordion.css" rel="stylesheet" type="text/css" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="site.js" type="text/javascript"></script>
+</head>

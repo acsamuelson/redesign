@@ -1,0 +1,48 @@
+[% INCLUDE head.tt2 %]
+<div id="wrapper">
+<span id="titlesans"><a href="index.html">ANNIE SAMUELSON</a></span><br><br>
+
+<div id="left">
+  [% INCLUDE left.tt2 %]
+<span id="sans">
+  <a href="http://www.annesamuelson.com/nereus">N.E.R.E.U.S.</a>
+</span>
+<br>
+  Client: <a href="http://www.nsf.gov/">National Science Foundation</a><br> 2009
+    <br><br>
+Featured at <u> <a href="http://sxsw.com/node/3253">SXSW</a></u>, and awarded top honor in creativity by the <u> <a href="http://www.utexas.edu/academic/ctl/iitap/winners.php">Innovative Instructional Technology Awards Program</a></u>. <u> <a href="http://www.utmsi.utexas.edu/">UTMSI</a></u> approached UT's design department to create an oceanic testing simulator in Second Life to help students visualize marine data. I served as a project leader, focusing on usability, navigation, & the heads up display (HUD). Since, its creation I have spoken at <u> <a href="http://www.tuelearningcommunity.com/uc2010/">The Undergraduate Conference in Second Life</a></u>. Created with: <u> <a href="http://www.designut.org/seniors2011/index.html">UT Design '11.</a></u> 
+</div>
+
+
+
+<div id="right">
+<div id="gallery">
+
+    <div id="gallery-selector">
+      <span>
+      <img src="_img/static/slideshow_dot_hover.png" id="selector-1" class="selector active"/>
+      <img src="_img/static/slideshow_dot.png" id="selector-2" class="selector inactive"/>
+      <img src="_img/static/slideshow_dot.png" id="selector-3" class="selector inactive"/>
+      <img src="_img/static/slideshow_dot.png" id="selector-4" class="selector inactive"/>
+      <img src="_img/static/slideshow_dot.png" id="selector-5" class="selector inactive"/>
+      <img src="_img/static/slideshow_dot.png" id="selector-6" class="selector inactive"/>
+    
+      </span>
+    </div>
+
+      <span>
+      <img src="_img/portfolio/interactive/nereus/1.png" id="gallery-1" class="gallery shown"/>
+      <img src="_img/portfolio/interactive/nereus/2.png" id="gallery-2" class="gallery hidden"/>
+      <img src="_img/portfolio/interactive/nereus/3.png" id="gallery-3" class="gallery hidden"/>
+      <img src="_img/portfolio/interactive/nereus/4.png" id="gallery-4" class="gallery hidden"/>
+      <img src="_img/portfolio/interactive/nereus/5.png" id="gallery-5" class="gallery hidden"/>
+      <img src="_img/portfolio/interactive/nereus/6.png" id="gallery-6" class="gallery hidden"/>
+      </span>
+<!--      <img src="img/back.png" id="gallery-back"/>
+    <img src="img/forward.png" id="gallery-forward"/>-->
+    </div>
+    
+
+</div>
+</div>
+[% INCLUDE footer.tt2 %]

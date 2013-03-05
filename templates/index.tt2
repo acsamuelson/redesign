@@ -15,33 +15,15 @@ B.F.A. Design (The University of Texas)<br><br>
 
 <i><a href="/doc/AnneSamuelsonResume.pdf">Download my resume</a></i>
     
-<!--<span id="sans">
-  <a href="http://www.annesamuelson.com/1_tes">TODD E. SAMUELSON M.D. </a>
-</span>
-<br>
-  Client: <a href="http://www.toddsamuelsonmd.com">Todd E. Samuelson M.D.</a><br> 2011-2012
-    <br><br>
-  My dad needed a new corporate identity and website. Of course I was happy to help! C'mon, who   can say no their parents? (Bonus: my mom made him give me complete artistic freedom) <u><a href="http:/toddsamuelsonmd.com">Visit the site!</a></u>-->
-    
 </div>
 
 
 
 <div id="right">
 <div id="gallery">
-      <span>
-      <img src="_img/portfolio/web/samuelson/1.png" id="gallery-1" class="gallery shown"/>
-      <img src="_img/portfolio/web/samuelson/2.png" id="gallery-2" class="gallery hidden"/>
-      <img src="_img/portfolio/web/samuelson/3.png" id="gallery-3" class="gallery hidden"/>
-      <img src="_img/portfolio/web/samuelson/4.png" id="gallery-4" class="gallery hidden"/>
-      <img src="_img/portfolio/web/samuelson/5.png" id="gallery-5" class="gallery hidden"/>
-      <img src="_img/portfolio/web/samuelson/6.png" id="gallery-6" class="gallery hidden"/>
-      </span>
-<!--      <img src="img/back.png" id="gallery-back"/>
-    <img src="img/forward.png" id="gallery-forward"/>-->
-    </div>
-    
+
     <div id="gallery-selector">
+    <img src="_img/static/gallery_left.png" id="gallery-back"/>
       <span>
       <img src="_img/static/slideshow_dot_hover.png" id="selector-1" class="selector active"/>
       <img src="_img/static/slideshow_dot.png" id="selector-2" class="selector inactive"/>
@@ -50,7 +32,21 @@ B.F.A. Design (The University of Texas)<br><br>
       <img src="_img/static/slideshow_dot.png" id="selector-5" class="selector inactive"/>
       <img src="_img/static/slideshow_dot.png" id="selector-6" class="selector inactive"/>
       </span>
+   <img src="_img/static/gallery_right.png" id="gallery-forward"/>
     </div>
+
+      <span>
+      <img src="_img/portfolio/web/wedding/2.png" id="gallery-1" class="gallery shown"/>
+      <img src="_img/portfolio/web/samuelson/2.png" id="gallery-2" class="gallery hidden"/>
+      <img src="_img/portfolio/interactive/nereus/4.png" id="gallery-3" class="gallery hidden"/>
+      <img src="_img/portfolio/interactive/mockup/6.png" id="gallery-4" class="gallery hidden"/>
+      <img src="_img/portfolio/graphic/lettering/5.png" id="gallery-5" class="gallery hidden"/>
+      <img src="_img/portfolio/web/wedding/3.png" id="gallery-6" class="gallery hidden"/>
+      </span>
+
+    </div>
+    
+
 </div>
 </div>
 [% INCLUDE footer.tt2 %]

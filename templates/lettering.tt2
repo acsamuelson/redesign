@@ -5,7 +5,7 @@
 <div id="left">
   [% INCLUDE left.tt2 %]
 <span id="sans">
-  <a href="http://www.annesamuelson.com/illustration">ILLUSTRATIONS</a>
+  <a href="http://www.annesamuelson.com/lettering">LETTERING</a>
 </span>
 <br>
   Client: Assorted Clients<br> 2005-2013
@@ -18,7 +18,7 @@
 <div id="right">
 <div id="gallery">
 
-     <div id="gallery-selector">
+    <div id="gallery-selector">
       <span>
       <img src="_img/static/slideshow_dot_hover.png" id="selector-1" class="selector active"/>
       <img src="_img/static/slideshow_dot.png" id="selector-2" class="selector inactive"/>
@@ -27,22 +27,25 @@
       <img src="_img/static/slideshow_dot.png" id="selector-5" class="selector inactive"/>
       <img src="_img/static/slideshow_dot.png" id="selector-6" class="selector inactive"/>
       <img src="_img/static/slideshow_dot.png" id="selector-7" class="selector inactive"/>
+      <img src="_img/static/slideshow_dot.png" id="selector-8" class="selector inactive"/>
       </span>
     </div>
 
       <span>
-      <img src="_img/portfolio/graphic/illustration/1.png" id="gallery-1" class="gallery shown"/>
-      <img src="_img/portfolio/graphic/illustration/2.png" id="gallery-2" class="gallery hidden"/>
-      <img src="_img/portfolio/graphic/illustration/3.png" id="gallery-3" class="gallery hidden"/>
-      <img src="_img/portfolio/graphic/illustration/4.png" id="gallery-4" class="gallery hidden"/>
-      <img src="_img/portfolio/graphic/illustration/5.png" id="gallery-5" class="gallery hidden"/>
-      <img src="_img/portfolio/graphic/illustration/6.png" id="gallery-6" class="gallery hidden"/>
-      <img src="_img/portfolio/graphic/illustration/7.png" id="gallery-7" class="gallery hidden"/>
+      <img src="_img/portfolio/graphic/lettering/1.png" id="gallery-1" class="gallery shown"/>
+      <img src="_img/portfolio/graphic/lettering/2.png" id="gallery-2" class="gallery hidden"/>
+      <img src="_img/portfolio/graphic/lettering/3.png" id="gallery-3" class="gallery hidden"/>
+      <img src="_img/portfolio/graphic/lettering/4.png" id="gallery-4" class="gallery hidden"/>
+      <img src="_img/portfolio/graphic/lettering/5.png" id="gallery-5" class="gallery hidden"/>
+      <img src="_img/portfolio/graphic/lettering/6.png" id="gallery-6" class="gallery hidden"/>
+      <img src="_img/portfolio/graphic/lettering/7.png" id="gallery-7" class="gallery hidden"/>
+      <img src="_img/portfolio/graphic/lettering/8.png" id="gallery-8" class="gallery hidden"/>
       </span>
 <!--      <img src="img/back.png" id="gallery-back"/>
     <img src="img/forward.png" id="gallery-forward"/>-->
     </div>
-   
+    
+
 </div>
 </div>
 [% INCLUDE footer.tt2 %]

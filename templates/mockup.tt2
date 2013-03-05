@@ -5,12 +5,12 @@
 <div id="left">
   [% INCLUDE left.tt2 %]
 <span id="sans">
-  <a href="http://www.annesamuelson.com/illustration">ILLUSTRATIONS</a>
+  <a href="http://www.annesamuelson.com/mockup">THESIS WIREFRAMES </a>
 </span>
 <br>
-  Client: Assorted Clients<br> 2005-2013
-</a></u>
-    
+  Client: <a href="http://www.annesamuelson.com/mockup">Digitized DNA</a><br> 2012
+    <br><br>
+  Wireframes that mock up the functionality of "Digitized DNA" designed for my Masters Thesis. This platform aggregates a patient's medical data and records and allows them to effectively monitor their health.
 </div>
 
 
@@ -18,7 +18,7 @@
 <div id="right">
 <div id="gallery">
 
-     <div id="gallery-selector">
+    <div id="gallery-selector">
       <span>
       <img src="_img/static/slideshow_dot_hover.png" id="selector-1" class="selector active"/>
       <img src="_img/static/slideshow_dot.png" id="selector-2" class="selector inactive"/>
@@ -26,23 +26,23 @@
       <img src="_img/static/slideshow_dot.png" id="selector-4" class="selector inactive"/>
       <img src="_img/static/slideshow_dot.png" id="selector-5" class="selector inactive"/>
       <img src="_img/static/slideshow_dot.png" id="selector-6" class="selector inactive"/>
-      <img src="_img/static/slideshow_dot.png" id="selector-7" class="selector inactive"/>
+    
       </span>
     </div>
 
       <span>
-      <img src="_img/portfolio/graphic/illustration/1.png" id="gallery-1" class="gallery shown"/>
-      <img src="_img/portfolio/graphic/illustration/2.png" id="gallery-2" class="gallery hidden"/>
-      <img src="_img/portfolio/graphic/illustration/3.png" id="gallery-3" class="gallery hidden"/>
-      <img src="_img/portfolio/graphic/illustration/4.png" id="gallery-4" class="gallery hidden"/>
-      <img src="_img/portfolio/graphic/illustration/5.png" id="gallery-5" class="gallery hidden"/>
-      <img src="_img/portfolio/graphic/illustration/6.png" id="gallery-6" class="gallery hidden"/>
-      <img src="_img/portfolio/graphic/illustration/7.png" id="gallery-7" class="gallery hidden"/>
+      <img src="_img/portfolio/interactive/mockup/1.png" id="gallery-1" class="gallery shown"/>
+      <img src="_img/portfolio/interactive/mockup/2.png" id="gallery-2" class="gallery hidden"/>
+      <img src="_img/portfolio/interactive/mockup/3.png" id="gallery-3" class="gallery hidden"/>
+      <img src="_img/portfolio/interactive/mockup/4.png" id="gallery-4" class="gallery hidden"/>
+      <img src="_img/portfolio/interactive/mockup/5.png" id="gallery-5" class="gallery hidden"/>
+      <img src="_img/portfolio/interactive/mockup/6.png" id="gallery-6" class="gallery hidden"/>
       </span>
 <!--      <img src="img/back.png" id="gallery-back"/>
     <img src="img/forward.png" id="gallery-forward"/>-->
     </div>
-   
+    
+
 </div>
 </div>
 [% INCLUDE footer.tt2 %]

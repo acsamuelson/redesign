@@ -1,6 +1,6 @@
 <div id="footer">© 2013 Annie Samuelson, UX/UI Designer </a> </u></div>
 
-<script src="slideshow.js"></script>
+<script src="scripts/slideshow.js"></script>
 <script type="text/javascript">
 <!--
 var Accordion1 = new Spry.Widget.Accordion("Accordion1",  { useFixedPanelHeights: false, defaultPanel: -1 });

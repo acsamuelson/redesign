@@ -23,7 +23,7 @@ B.F.A. Design (The University of Texas)<br><br>
 <div id="gallery">
 
     <div id="gallery-selector">
-    <img src="_img/static/gallery_left.png" id="gallery-back"/>
+    <img src="_img/static/back.png" id="gallery-back"/>
       <span>
       <img src="_img/static/slideshow_dot_hover.png" id="selector-1" class="selector active"/>
       <img src="_img/static/slideshow_dot.png" id="selector-2" class="selector inactive"/>
@@ -32,7 +32,7 @@ B.F.A. Design (The University of Texas)<br><br>
       <img src="_img/static/slideshow_dot.png" id="selector-5" class="selector inactive"/>
       <img src="_img/static/slideshow_dot.png" id="selector-6" class="selector inactive"/>
       </span>
-   <img src="_img/static/gallery_right.png" id="gallery-forward"/>
+   <img src="_img/static/forward.png" id="gallery-forward"/>
     </div>
 
       <span>

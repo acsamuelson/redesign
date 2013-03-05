@@ -82,7 +82,6 @@ body {
 	text-align:center;
 	width:650px;
 	height:13px;
-	background-color:#CCC;
 }
 
 #gallery-icon {
@@ -90,14 +89,6 @@ body {
 	text-align:center;
 }
 
-#gallery-back {
-	margin-right:0px;
-	margin-bottom:50px;
-}
-
-#gallery-forward {
-	margin-right:0px;
-}
 
 #left {
     float:left;

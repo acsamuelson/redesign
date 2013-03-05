@@ -1,0 +1,48 @@
+[% INCLUDE head.tt2 %]
+<div id="wrapper">
+<span id="titlesans"><a href="index.html">ANNIE SAMUELSON</a></span><br><br>
+
+<div id="left">
+  [% INCLUDE left.tt2 %]
+<span id="sans">
+  <a href="http://www.annesamuelson.com/states">STATES OF MATTER </a>
+</span>
+<br>
+  Client:<a href="http://utexas.edu/">The University of Texas</a><br> 2010-2011
+<br>
+I served as the Co-coordinator, with <u><a href="http://stephanieosan.com/">Stephanie Osan</u></a>, for my undergraduate senior design show.  States of Matter investigated three facets of one project by each of the graduating senior design students.
+The exhibition format offered viewers an intimate understanding of each project through the inclusion of process and contextual materials presented alongside a final artifact.  Created with: <u> <a href="http://www.designut.org/seniors2011/index.html">UT Design '11.</u></a> 
+    
+</div>
+
+
+
+<div id="right">
+<div id="gallery">
+
+    <div id="gallery-selector">
+      <span>
+      <img src="_img/static/slideshow_dot_hover.png" id="selector-1" class="selector active"/>
+      <img src="_img/static/slideshow_dot.png" id="selector-2" class="selector inactive"/>
+      <img src="_img/static/slideshow_dot.png" id="selector-3" class="selector inactive"/>
+      <img src="_img/static/slideshow_dot.png" id="selector-4" class="selector inactive"/>
+      <img src="_img/static/slideshow_dot.png" id="selector-5" class="selector inactive"/>
+
+      </span>
+    </div>
+
+      <span>
+      <img src="_img/portfolio/environmental/states/1.png" id="gallery-1" class="gallery shown"/>
+      <img src="_img/portfolio/environmental/states/2.png" id="gallery-2" class="gallery hidden"/>
+      <img src="_img/portfolio/environmental/states/3.png" id="gallery-3" class="gallery hidden"/>
+      <img src="_img/portfolio/environmental/states/4.png" id="gallery-4" class="gallery hidden"/>
+      <img src="_img/portfolio/environmental/states/5.png" id="gallery-5" class="gallery hidden"/>
+      </span>
+<!--      <img src="img/back.png" id="gallery-back"/>
+    <img src="img/forward.png" id="gallery-forward"/>-->
+    </div>
+    
+
+</div>
+</div>
+[% INCLUDE footer.tt2 %]

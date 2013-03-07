@@ -19,6 +19,7 @@ Featured at <u> <a href="http://sxsw.com/node/3253">SXSW</a></u>, and awarded to
 <div id="gallery">
 
     <div id="gallery-selector">
+	<img src="_img/static/back.png" id="gallery-back"/>
       <span>
       <img src="_img/static/slideshow_dot_hover.png" id="selector-1" class="selector active"/>
       <img src="_img/static/slideshow_dot.png" id="selector-2" class="selector inactive"/>
@@ -26,8 +27,8 @@ Featured at <u> <a href="http://sxsw.com/node/3253">SXSW</a></u>, and awarded to
       <img src="_img/static/slideshow_dot.png" id="selector-4" class="selector inactive"/>
       <img src="_img/static/slideshow_dot.png" id="selector-5" class="selector inactive"/>
       <img src="_img/static/slideshow_dot.png" id="selector-6" class="selector inactive"/>
-    
       </span>
+	 <img src="_img/static/forward.png" id="gallery-forward"/>
     </div>
 
       <span>

@@ -21,14 +21,15 @@ The exhibition format offered viewers an intimate understanding of each project 
 <div id="gallery">
 
     <div id="gallery-selector">
+	<img src="_img/static/back.png" id="gallery-back"/>
       <span>
       <img src="_img/static/slideshow_dot_hover.png" id="selector-1" class="selector active"/>
       <img src="_img/static/slideshow_dot.png" id="selector-2" class="selector inactive"/>
       <img src="_img/static/slideshow_dot.png" id="selector-3" class="selector inactive"/>
       <img src="_img/static/slideshow_dot.png" id="selector-4" class="selector inactive"/>
       <img src="_img/static/slideshow_dot.png" id="selector-5" class="selector inactive"/>
-
       </span>
+	 <img src="_img/static/forward.png" id="gallery-forward"/>
     </div>
 
       <span>

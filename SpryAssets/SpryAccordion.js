@@ -34,7 +34,7 @@ if (typeof Spry == "undefined") window.Spry = {}; if (!Spry.Widget) Spry.Widget 
 Spry.Widget.Accordion = function(element, opts)
 {
 	this.element = this.getElement(element);
-	this.defaultPanel = 0;
+	this.defaultPanel = null;
 	this.hoverClass = "AccordionPanelTabHover";
 	this.openClass = "AccordionPanelOpen";
 	this.closedClass = "AccordionPanelClosed";

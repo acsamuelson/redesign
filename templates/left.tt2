@@ -15,33 +15,33 @@
 <div class="AccordionPanel">
         <span class="AccordionPanelTab"><span id="sans">WEB</span></span>
         <span class="AccordionPanelContent">
-                <!-- add #0 to every link -->
-     <li><a href="wedding.html#0">The (Future) Schorfheides</a>
-     <li><a href="horizon.html#0">The Horizon Group</a>
-    <li><a href="samuelson.html#0">Todd Samuelson MD</a></li>
-    <li><a href="shadowcliff.html#0">Shadowcliff Club</a></li>
-        <li><a href="cowtown.html#0">Cowtown Tri Delta</a></li>
+                <!-- add #1 to every link -->
+     <li><a href="wedding.html#1">The (Future) Schorfheides</a>
+     <li><a href="horizon.html#1">The Horizon Group</a>
+    <li><a href="samuelson.html#1">Todd Samuelson MD</a></li>
+    <li><a href="shadowcliff.html#1">Shadowcliff Club</a></li>
+        <li><a href="cowtown.html#1">Cowtown Tri Delta</a></li>
         </span><br>
 </div>
 
 <div class="AccordionPanel">
         <span class="AccordionPanelTab"><span id="sans">ENVIRONMENTAL</span></span>
         <span class="AccordionPanelContent">
-                <!-- add #0 to every link -->
-	<li><a href="states.html#0">States of Matter, Exhibit Design</a>
-    <li><a href="palads.html#0">Palads Hus, Wayfinding</a></li>
-    <li><a href="agriturismos.html#0">Agriturismos, System Design</a></li>
-        <li><a href="visualization.html#0">Sustainability, Data Visualization</a></li>
+                <!-- add #2 to every link -->
+	<li><a href="states.html#2">States of Matter, Exhibit Design</a>
+    <li><a href="palads.html#2">Palads Hus, Wayfinding</a></li>
+    <li><a href="agriturismos.html#2">Agriturismos, System Design</a></li>
+        <li><a href="visualization.html#2">Sustainability, Data Visualization</a></li>
         </span><br>
 </div>
 
 <div class="AccordionPanel">
         <span class="AccordionPanelTab"><span id="sans">GRAPHIC</span></span>
         <span class="AccordionPanelContent">
-                <!-- add #0 to every link -->
-    <li><a href="logos.html#0">Assorted Logos</a>
-    <li><a href="lettering.html#0">Assorted Lettering</a></li>
-    <li><a href="illustration.html#0">Assorted Illustration</a></li>
+                <!-- add #3 to every link -->
+    <li><a href="logos.html#3">Assorted Logos</a>
+    <li><a href="lettering.html#3">Assorted Lettering</a></li>
+    <li><a href="illustration.html#3">Assorted Illustration</a></li>
         </span><br>
 </div>
 </div>
